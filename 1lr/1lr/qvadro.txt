@@ -1,2 +1,0 @@
-cd C:\Program Files\qemu\
-qemu1 test2.img
