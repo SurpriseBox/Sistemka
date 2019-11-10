@@ -1,0 +1,2 @@
+C:\MinGW\
+C:\Program Files\qemu\
